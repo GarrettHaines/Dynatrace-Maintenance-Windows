@@ -3,7 +3,7 @@
   "environmentUrl": "https://amgen-dev.apps.dynatrace.com/",
   "app": {
     "name": "Maintenance Windows",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "View and create maintenance windows.",
     "id": "my.maintenance.windows",
     "scopes": [
