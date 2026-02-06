@@ -1,7 +1,7 @@
 {
-  "name": "maintenance-window-maker",
-  "version": "0.0.0",
-  "description": "Create a maintenance window.",
+  "name": "maintenance-windows",
+  "version": "1.0.0",
+  "description": "View and create maintenance windows.",
   "scripts": {
     "build": "dt-app build --prod",
     "start": "dt-app dev",
